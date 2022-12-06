@@ -37,3 +37,7 @@
 
 <link rel="stylesheet" href="{{ asset('assets/backend') }}/css/main.css" />
 <script src="{{ asset('assets/backend') }}/js/base/loader.js"></script>
+
+@srack('admin_style');
+
+{{-- https://cdn.datatables.net/1.13.1/css/dataTables.bootstrap5.min.css --}}
